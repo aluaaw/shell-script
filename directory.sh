@@ -1,14 +1,12 @@
 #!/bin/bash
 
-# /test/file1/file2
-
 arr=("file1" "file2" "file3" "file4")
 
-for i in "${arr}";
+for i in "${arr[@]}";
 do
-	mkdir /test/$i
+	sudo mkdir /Users/ny/Side/shell-script/$i
 	for j in "${arr}";
 	do
-		mkdir /test/$i/$j
+		sudo mkdir /Users/ny/Side/shell-script/$i/$j
 	done
 done
