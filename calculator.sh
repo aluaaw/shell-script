@@ -14,7 +14,7 @@ cat << EOF
 ===========================
 EOF
 
-echo "Choice the number:"
+echo "Choice the operator:"
 read c
 
 case "${c}" in
