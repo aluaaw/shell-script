@@ -1,0 +1,405 @@
+{
+  "_links" : {
+    "invests" : {
+      "href" : "http://211.248.96.234:8080/invests{?page,size,sort}",
+      "templated" : true
+    },
+    "externalSupportBusinesses" : {
+      "href" : "http://211.248.96.234:8080/externalSupportBusinesses{?page,size,sort}",
+      "templated" : true
+    },
+    "logDatas" : {
+      "href" : "http://211.248.96.234:8080/logDatas{?page,size,sort}",
+      "templated" : true
+    },
+    "supportBusinessFiles" : {
+      "href" : "http://211.248.96.234:8080/supportBusinessFiles{?page,size,sort}",
+      "templated" : true
+    },
+    "companyInquiryAnswers" : {
+      "href" : "http://211.248.96.234:8080/companyInquiryAnswers{?page,size,sort}",
+      "templated" : true
+    },
+    "news" : {
+      "href" : "http://211.248.96.234:8080/news{?page,size,sort}",
+      "templated" : true
+    },
+    "mileages" : {
+      "href" : "http://211.248.96.234:8080/mileages{?page,size,sort}",
+      "templated" : true
+    },
+    "codeClasses" : {
+      "href" : "http://211.248.96.234:8080/codeClasses{?page,size,sort}",
+      "templated" : true
+    },
+    "boards" : {
+      "href" : "http://211.248.96.234:8080/boards{?page,size,sort}",
+      "templated" : true
+    },
+    "supportBusinesses" : {
+      "href" : "http://211.248.96.234:8080/supportBusinesses{?page,size,sort}",
+      "templated" : true
+    },
+    "companyFiles" : {
+      "href" : "http://211.248.96.234:8080/companyFiles{?page,size,sort}",
+      "templated" : true
+    },
+    "contactGroups" : {
+      "href" : "http://211.248.96.234:8080/contactGroups{?page,size,sort}",
+      "templated" : true
+    },
+    "companyProducts" : {
+      "href" : "http://211.248.96.234:8080/companyProducts{?page,size,sort}",
+      "templated" : true
+    },
+    "kedFinances" : {
+      "href" : "http://211.248.96.234:8080/kedFinances{?page,size,sort}",
+      "templated" : true
+    },
+    "urlInfoes" : {
+      "href" : "http://211.248.96.234:8080/urlInfoes{?page,size,sort}",
+      "templated" : true
+    },
+    "companyMenuAuths" : {
+      "href" : "http://211.248.96.234:8080/companyMenuAuths{?page,size,sort}",
+      "templated" : true
+    },
+    "adminMenus" : {
+      "href" : "http://211.248.96.234:8080/adminMenus{?page,size,sort}",
+      "templated" : true
+    },
+    "companyUserInterests" : {
+      "href" : "http://211.248.96.234:8080/companyUserInterests{?page,size,sort}",
+      "templated" : true
+    },
+    "companyInquiries" : {
+      "href" : "http://211.248.96.234:8080/companyInquiries{?page,size,sort}",
+      "templated" : true
+    },
+    "investCompanies" : {
+      "href" : "http://211.248.96.234:8080/investCompanies{?page,size,sort}",
+      "templated" : true
+    },
+    "companies" : {
+      "href" : "http://211.248.96.234:8080/companies{?page,size,sort}",
+      "templated" : true
+    },
+    "messageLogs" : {
+      "href" : "http://211.248.96.234:8080/messageLogs{?page,size,sort}",
+      "templated" : true
+    },
+    "majorIndustries" : {
+      "href" : "http://211.248.96.234:8080/majorIndustries{?page,size,sort}",
+      "templated" : true
+    },
+    "adminUsers" : {
+      "href" : "http://211.248.96.234:8080/adminUsers{?page,size,sort}",
+      "templated" : true
+    },
+    "findSourceCodes" : {
+      "href" : "http://211.248.96.234:8080/findSourceCodes{?page,size,sort}",
+      "templated" : true
+    },
+    "companyProductKeywords" : {
+      "href" : "http://211.248.96.234:8080/companyProductKeywords{?page,size,sort}",
+      "templated" : true
+    },
+    "contacts" : {
+      "href" : "http://211.248.96.234:8080/contacts{?page,size,sort}",
+      "templated" : true
+    },
+    "companyProductFiles" : {
+      "href" : "http://211.248.96.234:8080/companyProductFiles{?page,size,sort}",
+      "templated" : true
+    },
+    "qnas" : {
+      "href" : "http://211.248.96.234:8080/qnas{?page,size,sort}",
+      "templated" : true
+    },
+    "codes" : {
+      "href" : "http://211.248.96.234:8080/codes{?page,size,sort}",
+      "templated" : true
+    },
+    "companyProductExcellents" : {
+      "href" : "http://211.248.96.234:8080/companyProductExcellents{?page,size,sort}",
+      "templated" : true
+    },
+    "qnaAnswers" : {
+      "href" : "http://211.248.96.234:8080/qnaAnswers{?page,size,sort}",
+      "templated" : true
+    },
+    "supportCompanies" : {
+      "href" : "http://211.248.96.234:8080/supportCompanies{?page,size,sort}",
+      "templated" : true
+    },
+    "findSources" : {
+      "href" : "http://211.248.96.234:8080/findSources{?page,size,sort}",
+      "templated" : true
+    },
+    "adminMenuAuths" : {
+      "href" : "http://211.248.96.234:8080/adminMenuAuths{?page,size,sort}",
+      "templated" : true
+    },
+    "investFiles" : {
+      "href" : "http://211.248.96.234:8080/investFiles{?page,size,sort}",
+      "templated" : true
+    },
+    "adminInquiries" : {
+      "href" : "http://211.248.96.234:8080/adminInquiries{?page,size,sort}",
+      "templated" : true
+    },
+    "kedCompanies" : {
+      "href" : "http://211.248.96.234:8080/kedCompanies{?page,size,sort}",
+      "templated" : true
+    },
+    "newsFiles" : {
+      "href" : "http://211.248.96.234:8080/newsFiles{?page,size,sort}",
+      "templated" : true
+    },
+    "investKeywords" : {
+      "href" : "http://211.248.96.234:8080/investKeywords{?page,size,sort}",
+      "templated" : true
+    },
+    "extSupportBusinesses" : {
+      "href" : "http://211.248.96.234:8080/extSupportBusinesses{?page,size,sort}",
+      "templated" : true
+    },
+    "supportCompanyFiles" : {
+      "href" : "http://211.248.96.234:8080/supportCompanyFiles{?page,size,sort}",
+      "templated" : true
+    },
+    "boardFiles" : {
+      "href" : "http://211.248.96.234:8080/boardFiles{?page,size,sort}",
+      "templated" : true
+    },
+    "investCompanyFiles" : {
+      "href" : "http://211.248.96.234:8080/investCompanyFiles{?page,size,sort}",
+      "templated" : true
+    },
+    "supportBusinessKeywords" : {
+      "href" : "http://211.248.96.234:8080/supportBusinessKeywords{?page,size,sort}",
+      "templated" : true
+    },
+    "faqs" : {
+      "href" : "http://211.248.96.234:8080/faqs{?page,size,sort}",
+      "templated" : true
+    },
+    "companyUsers" : {
+      "href" : "http://211.248.96.234:8080/companyUsers{?page,size,sort}",
+      "templated" : true
+    },
+    "companyEwcds" : {
+      "href" : "http://211.248.96.234:8080/companyEwcds{?page,size,sort}",
+      "templated" : true
+    },
+    "companyMenus" : {
+      "href" : "http://211.248.96.234:8080/companyMenus{?page,size,sort}",
+      "templated" : true
+    },
+    "profile" : {
+      "href" : "http://211.248.96.234:8080/profile"
+    }
+  }
+}{
+  "_links" : {
+    "invests" : {
+      "href" : "http://211.248.96.234:8080/invests{?page,size,sort}",
+      "templated" : true
+    },
+    "externalSupportBusinesses" : {
+      "href" : "http://211.248.96.234:8080/externalSupportBusinesses{?page,size,sort}",
+      "templated" : true
+    },
+    "logDatas" : {
+      "href" : "http://211.248.96.234:8080/logDatas{?page,size,sort}",
+      "templated" : true
+    },
+    "supportBusinessFiles" : {
+      "href" : "http://211.248.96.234:8080/supportBusinessFiles{?page,size,sort}",
+      "templated" : true
+    },
+    "companyInquiryAnswers" : {
+      "href" : "http://211.248.96.234:8080/companyInquiryAnswers{?page,size,sort}",
+      "templated" : true
+    },
+    "news" : {
+      "href" : "http://211.248.96.234:8080/news{?page,size,sort}",
+      "templated" : true
+    },
+    "mileages" : {
+      "href" : "http://211.248.96.234:8080/mileages{?page,size,sort}",
+      "templated" : true
+    },
+    "codeClasses" : {
+      "href" : "http://211.248.96.234:8080/codeClasses{?page,size,sort}",
+      "templated" : true
+    },
+    "boards" : {
+      "href" : "http://211.248.96.234:8080/boards{?page,size,sort}",
+      "templated" : true
+    },
+    "supportBusinesses" : {
+      "href" : "http://211.248.96.234:8080/supportBusinesses{?page,size,sort}",
+      "templated" : true
+    },
+    "companyFiles" : {
+      "href" : "http://211.248.96.234:8080/companyFiles{?page,size,sort}",
+      "templated" : true
+    },
+    "contactGroups" : {
+      "href" : "http://211.248.96.234:8080/contactGroups{?page,size,sort}",
+      "templated" : true
+    },
+    "companyProducts" : {
+      "href" : "http://211.248.96.234:8080/companyProducts{?page,size,sort}",
+      "templated" : true
+    },
+    "kedFinances" : {
+      "href" : "http://211.248.96.234:8080/kedFinances{?page,size,sort}",
+      "templated" : true
+    },
+    "urlInfoes" : {
+      "href" : "http://211.248.96.234:8080/urlInfoes{?page,size,sort}",
+      "templated" : true
+    },
+    "companyMenuAuths" : {
+      "href" : "http://211.248.96.234:8080/companyMenuAuths{?page,size,sort}",
+      "templated" : true
+    },
+    "adminMenus" : {
+      "href" : "http://211.248.96.234:8080/adminMenus{?page,size,sort}",
+      "templated" : true
+    },
+    "companyUserInterests" : {
+      "href" : "http://211.248.96.234:8080/companyUserInterests{?page,size,sort}",
+      "templated" : true
+    },
+    "companyInquiries" : {
+      "href" : "http://211.248.96.234:8080/companyInquiries{?page,size,sort}",
+      "templated" : true
+    },
+    "investCompanies" : {
+      "href" : "http://211.248.96.234:8080/investCompanies{?page,size,sort}",
+      "templated" : true
+    },
+    "companies" : {
+      "href" : "http://211.248.96.234:8080/companies{?page,size,sort}",
+      "templated" : true
+    },
+    "messageLogs" : {
+      "href" : "http://211.248.96.234:8080/messageLogs{?page,size,sort}",
+      "templated" : true
+    },
+    "majorIndustries" : {
+      "href" : "http://211.248.96.234:8080/majorIndustries{?page,size,sort}",
+      "templated" : true
+    },
+    "adminUsers" : {
+      "href" : "http://211.248.96.234:8080/adminUsers{?page,size,sort}",
+      "templated" : true
+    },
+    "findSourceCodes" : {
+      "href" : "http://211.248.96.234:8080/findSourceCodes{?page,size,sort}",
+      "templated" : true
+    },
+    "companyProductKeywords" : {
+      "href" : "http://211.248.96.234:8080/companyProductKeywords{?page,size,sort}",
+      "templated" : true
+    },
+    "contacts" : {
+      "href" : "http://211.248.96.234:8080/contacts{?page,size,sort}",
+      "templated" : true
+    },
+    "companyProductFiles" : {
+      "href" : "http://211.248.96.234:8080/companyProductFiles{?page,size,sort}",
+      "templated" : true
+    },
+    "qnas" : {
+      "href" : "http://211.248.96.234:8080/qnas{?page,size,sort}",
+      "templated" : true
+    },
+    "codes" : {
+      "href" : "http://211.248.96.234:8080/codes{?page,size,sort}",
+      "templated" : true
+    },
+    "companyProductExcellents" : {
+      "href" : "http://211.248.96.234:8080/companyProductExcellents{?page,size,sort}",
+      "templated" : true
+    },
+    "qnaAnswers" : {
+      "href" : "http://211.248.96.234:8080/qnaAnswers{?page,size,sort}",
+      "templated" : true
+    },
+    "supportCompanies" : {
+      "href" : "http://211.248.96.234:8080/supportCompanies{?page,size,sort}",
+      "templated" : true
+    },
+    "findSources" : {
+      "href" : "http://211.248.96.234:8080/findSources{?page,size,sort}",
+      "templated" : true
+    },
+    "adminMenuAuths" : {
+      "href" : "http://211.248.96.234:8080/adminMenuAuths{?page,size,sort}",
+      "templated" : true
+    },
+    "investFiles" : {
+      "href" : "http://211.248.96.234:8080/investFiles{?page,size,sort}",
+      "templated" : true
+    },
+    "adminInquiries" : {
+      "href" : "http://211.248.96.234:8080/adminInquiries{?page,size,sort}",
+      "templated" : true
+    },
+    "kedCompanies" : {
+      "href" : "http://211.248.96.234:8080/kedCompanies{?page,size,sort}",
+      "templated" : true
+    },
+    "newsFiles" : {
+      "href" : "http://211.248.96.234:8080/newsFiles{?page,size,sort}",
+      "templated" : true
+    },
+    "investKeywords" : {
+      "href" : "http://211.248.96.234:8080/investKeywords{?page,size,sort}",
+      "templated" : true
+    },
+    "extSupportBusinesses" : {
+      "href" : "http://211.248.96.234:8080/extSupportBusinesses{?page,size,sort}",
+      "templated" : true
+    },
+    "supportCompanyFiles" : {
+      "href" : "http://211.248.96.234:8080/supportCompanyFiles{?page,size,sort}",
+      "templated" : true
+    },
+    "boardFiles" : {
+      "href" : "http://211.248.96.234:8080/boardFiles{?page,size,sort}",
+      "templated" : true
+    },
+    "investCompanyFiles" : {
+      "href" : "http://211.248.96.234:8080/investCompanyFiles{?page,size,sort}",
+      "templated" : true
+    },
+    "supportBusinessKeywords" : {
+      "href" : "http://211.248.96.234:8080/supportBusinessKeywords{?page,size,sort}",
+      "templated" : true
+    },
+    "faqs" : {
+      "href" : "http://211.248.96.234:8080/faqs{?page,size,sort}",
+      "templated" : true
+    },
+    "companyUsers" : {
+      "href" : "http://211.248.96.234:8080/companyUsers{?page,size,sort}",
+      "templated" : true
+    },
+    "companyEwcds" : {
+      "href" : "http://211.248.96.234:8080/companyEwcds{?page,size,sort}",
+      "templated" : true
+    },
+    "companyMenus" : {
+      "href" : "http://211.248.96.234:8080/companyMenus{?page,size,sort}",
+      "templated" : true
+    },
+    "profile" : {
+      "href" : "http://211.248.96.234:8080/profile"
+    }
+  }
+}
