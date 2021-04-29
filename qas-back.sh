@@ -1,4 +1,5 @@
 #!/bin/bash
+
 datetime=`date +Y%m%d`
 cd /Users/ny/Side/qas/backend
 git pull | tee -a ../../qas-logs/gitLog.txt
@@ -11,3 +12,4 @@ for PID in $(ps aux | grep qas-1.0.0-SNAPSHOT.jar | awk {'print $2'});
 done
 
 echo "Killed old Process"
+nohup java -jar -Dspring.profiles.active=dev build/libs/qas-1.0.0-SNAPSHOT.jar
