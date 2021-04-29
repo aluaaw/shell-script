@@ -5,8 +5,8 @@ arr=("file1" "file2" "file3" "file4")
 for i in "${arr[@]}";
 do
 	sudo mkdir $i
-	for j in "${arr}";
+	for j in "${arr[@]}";
 	do
-		sudo mkdir /Users/ny/Side/shell-script/$i/$j
+		sudo mkdir ./$i/$j
 	done
 done
